@@ -38,3 +38,7 @@ Enter the following command to install the required Node Package Modules:
 * quit
 * npm run seed 
 * npm stat
+
+# Mock-Up:
+![Module 13](https://user-images.githubusercontent.com/86209350/169700416-bfacfba4-9964-409b-b563-9475741b296f.gif)
+
